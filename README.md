@@ -1,7 +1,7 @@
 # projetomobile
-projeto v1
+projeto Av1/Av2
 Alunos: Rafael Bonfim Da Silva - 01530591
-             Victor Fernando Carvalho De Lima - 01525103
+             
 
         1) A criação do aplicativo irá beneficiar pessoas que gostam de investir seu dinheiro e                  
             está sempre ligado no mercado financeiro. 
